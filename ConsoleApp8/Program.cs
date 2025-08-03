@@ -26,7 +26,7 @@ namespace ConsoleApp8
             Duration D3 = new Duration(666);
             Console.WriteLine(D3.ToString());
            
-          D1>D2
+          
 
             #endregion
 
